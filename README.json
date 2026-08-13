@@ -1,0 +1,1436 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyDub",
+          "description": "Manipulate audio with a simple and easy high level interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T21:32:30Z",
+            "owner": "jiaaro",
+            "repo": "pydub",
+            "stars": 9788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pedalboard",
+          "description": "Spotify's library for audio effects and processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:19:35Z",
+            "owner": "spotify",
+            "repo": "pedalboard",
+            "stars": 6258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torchaudio",
+          "description": "Audio data manipulation and transformation powered by PyTorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:47:59Z",
+            "owner": "pytorch",
+            "repo": "audio",
+            "stars": 2922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchering",
+          "description": "Open source audio matching and mastering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T14:37:52Z",
+            "owner": "sergree",
+            "repo": "matchering",
+            "stars": 2605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiomentations",
+          "description": "Audio data augmentation library for machine learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T22:04:14Z",
+            "owner": "iver56",
+            "repo": "audiomentations",
+            "stars": 2308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noisereduce",
+          "description": "Noise reduction using spectral gating",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-19T04:41:53Z",
+            "owner": "timsainb",
+            "repo": "noisereduce",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoundDevice",
+          "description": "Play and record audio with Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T07:26:58Z",
+            "owner": "spatialaudio",
+            "repo": "python-sounddevice",
+            "stars": 1265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torch-audiomentations",
+          "description": "Fast GPU audio data augmentation for PyTorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T20:07:26Z",
+            "owner": "iver56",
+            "repo": "torch-audiomentations",
+            "stars": 1164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soundfile",
+          "description": "Read and write sound files using libsndfile",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T04:59:14Z",
+            "owner": "bastibe",
+            "repo": "python-soundfile",
+            "stars": 849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audioread",
+          "description": "Cross-library audio decoding (GStreamer + Core Audio + MAD + FFmpeg)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T14:33:08Z",
+            "owner": "beetbox",
+            "repo": "audioread",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyAudioProcessing",
+          "description": "Audio feature extraction classification and segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T22:21:16Z",
+            "owner": "jsingh811",
+            "repo": "pyAudioProcessing",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matchering-cli",
+          "description": "Command line application for Matchering 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-06T19:30:46Z",
+            "owner": "sergree",
+            "repo": "matchering-cli",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babycat",
+          "description": "Audio manipulation library for Rust Python WebAssembly and C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-06T00:12:59Z",
+            "owner": "babycat-io",
+            "repo": "babycat",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Audio Processing & I/O"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "librosa",
+          "description": "Python package for music and audio analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:56:54Z",
+            "owner": "librosa",
+            "repo": "librosa",
+            "stars": 8555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyAudioAnalysis",
+          "description": "Audio feature extraction classification segmentation and visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T16:44:35Z",
+            "owner": "tyiannak",
+            "repo": "pyAudioAnalysis",
+            "stars": 6253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aubio",
+          "description": "Library for audio and music analysis including pitch and beat detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-10T16:42:19Z",
+            "owner": "aubio",
+            "repo": "aubio",
+            "stars": 3743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Essentia",
+          "description": "C++ library with Python bindings for audio analysis and MIR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T07:45:39Z",
+            "owner": "MTG",
+            "repo": "essentia",
+            "stars": 3690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audioFlux",
+          "description": "Library for audio and music analysis and feature extraction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-06T04:12:17Z",
+            "owner": "libAudioFlux",
+            "repo": "audioFlux",
+            "stars": 3350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Madmom",
+          "description": "Audio signal processing library focused on MIR tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T09:38:58Z",
+            "owner": "CPJKU",
+            "repo": "madmom",
+            "stars": 1693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyo",
+          "description": "Python DSP module with synthesis and analysis capabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T17:13:45Z",
+            "owner": "belangeo",
+            "repo": "pyo",
+            "stars": 1448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnAudio",
+          "description": "GPU audio processing using PyTorch neural networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T00:17:23Z",
+            "owner": "KinWaiCheuk",
+            "repo": "nnAudio",
+            "stars": 1130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mir_eval",
+          "description": "Evaluation functions for MIR and audio signal processing algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T21:07:16Z",
+            "owner": "mir-evaluation",
+            "repo": "mir_eval",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mirdata",
+          "description": "Python library for working with MIR datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T13:30:17Z",
+            "owner": "mir-dataset-loaders",
+            "repo": "mirdata",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeside",
+          "description": "Framework for audio analysis imaging transcoding and streaming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-14T17:26:35Z",
+            "owner": "Parisson",
+            "repo": "TimeSide",
+            "stars": 394
+          }
+        }
+      ],
+      "title": "Analysis & Feature Extraction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CLAP (LAION)",
+          "description": "Contrastive Language-Audio Pretraining for zero-shot audio classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T19:55:29Z",
+            "owner": "LAION-AI",
+            "repo": "CLAP",
+            "stars": 2248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLAP (Microsoft)",
+          "description": "Learning audio concepts from natural language supervision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-18T21:40:17Z",
+            "owner": "microsoft",
+            "repo": "CLAP",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenL3",
+          "description": "Open-source deep audio and image embeddings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-17T10:56:46Z",
+            "owner": "marl",
+            "repo": "openl3",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panns-inference",
+          "description": "Pretrained audio neural networks for audio tagging and sound event detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-05T18:07:23Z",
+            "owner": "qiuqiangkong",
+            "repo": "panns_inference",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Audio Embeddings & Representations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Speech Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper",
+          "description": "OpenAI's robust multilingual speech recognition model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faster-whisper",
+          "description": "CTranslate2 reimplementation of Whisper up to 4x faster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T14:40:46Z",
+            "owner": "SYSTRAN",
+            "repo": "faster-whisper",
+            "stars": 24881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhisperX",
+          "description": "Whisper with word-level timestamps and speaker diarization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T08:30:07Z",
+            "owner": "m-bain",
+            "repo": "whisperX",
+            "stars": 23550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vosk",
+          "description": "Offline speech recognition API supporting 20+ languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T13:35:47Z",
+            "owner": "alphacep",
+            "repo": "vosk-api",
+            "stars": 15050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeechBrain",
+          "description": "PyTorch toolkit for speech processing and conversational AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T11:24:25Z",
+            "owner": "speechbrain",
+            "repo": "speechbrain",
+            "stars": 11751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyannote-audio",
+          "description": "Neural speaker diarization and voice activity detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-04T17:30:45Z",
+            "owner": "pyannote",
+            "repo": "pyannote-audio",
+            "stars": 10407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeechRecognition",
+          "description": "Library for performing speech recognition with multiple backends",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T14:23:35Z",
+            "owner": "Uberi",
+            "repo": "speech_recognition",
+            "stars": 8983
+          }
+        }
+      ],
+      "title": "Speech-to-Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coqui TTS",
+          "description": "Deep learning toolkit for Text-to-Speech",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-16T12:07:14Z",
+            "owner": "coqui-ai",
+            "repo": "TTS",
+            "stars": 45886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bark",
+          "description": "Transformer-based text-to-audio model with emotions and non-speech sounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-19T07:45:36Z",
+            "owner": "suno-ai",
+            "repo": "bark",
+            "stars": 39237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyttsx3",
+          "description": "Offline text-to-speech conversion library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T06:14:56Z",
+            "owner": "nateshmbhat",
+            "repo": "pyttsx3",
+            "stars": 2530
+          }
+        }
+      ],
+      "title": "Text-to-Speech"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spleeter",
+          "description": "Deezer source separation library (note: Demucs now preferred)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T15:22:32Z",
+            "owner": "deezer",
+            "repo": "spleeter",
+            "stars": 28369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demucs",
+          "description": "State-of-the-art music source separation from Meta",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-24T20:25:19Z",
+            "owner": "facebookresearch",
+            "repo": "demucs",
+            "stars": 10356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asteroid",
+          "description": "PyTorch-based audio source separation toolkit for researchers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T12:56:36Z",
+            "owner": "asteroid-team",
+            "repo": "asteroid",
+            "stars": 2582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-separator",
+          "description": "Easy stem separation using MDX-Net VR Arch and Demucs models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T22:02:46Z",
+            "owner": "nomadkaraoke",
+            "repo": "python-audio-separator",
+            "stars": 1311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pydsm",
+          "description": "Google's toolkit for sound separation using deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-02T16:41:12Z",
+            "owner": "google-research",
+            "repo": "sound-separation",
+            "stars": 721
+          }
+        }
+      ],
+      "title": "Source Separation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "basic-pitch",
+          "description": "Spotify's lightweight neural network for polyphonic pitch detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T14:40:46Z",
+            "owner": "spotify",
+            "repo": "basic-pitch",
+            "stars": 5413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MT3",
+          "description": "Multi-instrument automatic music transcription from Google Magenta",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T03:02:13Z",
+            "owner": "magenta",
+            "repo": "mt3",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CREPE",
+          "description": "Monophonic pitch tracker using deep convolutional neural network",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T18:12:09Z",
+            "owner": "marl",
+            "repo": "crepe",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torchcrepe",
+          "description": "PyTorch implementation of CREPE pitch tracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T18:24:44Z",
+            "owner": "maxrmorrison",
+            "repo": "torchcrepe",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piano_transcription_inference",
+          "description": "High-resolution piano transcription with pedal detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-26T02:27:22Z",
+            "owner": "qiuqiangkong",
+            "repo": "piano_transcription_inference",
+            "stars": 479
+          }
+        }
+      ],
+      "title": "Music Transcription & Pitch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AudioCraft",
+          "description": "Meta's library for MusicGen AudioGen EnCodec and MAGNeT models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T21:50:32Z",
+            "owner": "facebookresearch",
+            "repo": "audiocraft",
+            "stars": 23558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magenta",
+          "description": "Google's machine learning for music and art generation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-01-06T01:17:54Z",
+            "owner": "magenta",
+            "repo": "magenta",
+            "stars": 19810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSynth",
+          "description": "Neural audio synthesis model from Magenta",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-01-06T01:17:54Z",
+            "owner": "magenta",
+            "repo": "magenta",
+            "stars": 19810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riffusion",
+          "description": "Real-time music generation using stable diffusion on spectrograms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-22T18:09:39Z",
+            "owner": "riffusion",
+            "repo": "riffusion-hobby",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Audio Tools",
+          "description": "Generative models for conditional audio generation from Stability AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T06:39:18Z",
+            "owner": "Stability-AI",
+            "repo": "stable-audio-tools",
+            "stars": 3839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "musicautobot",
+          "description": "Music generation with transformers using fastai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-08T23:02:58Z",
+            "owner": "bearpelican",
+            "repo": "musicautobot",
+            "stars": 553
+          }
+        }
+      ],
+      "title": "Music Generation & AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mido",
+          "description": "MIDI objects for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-27T13:13:18Z",
+            "owner": "mido",
+            "repo": "mido",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfluidsynth",
+          "description": "Python bindings for FluidSynth software synthesizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T11:48:48Z",
+            "owner": "amberwhitehead",
+            "repo": "pyfluidsynth",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-audio",
+          "description": "Jupyter notebooks about audio signal processing with Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-26T14:51:19Z",
+            "owner": "mgeier",
+            "repo": "python-audio",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Renardo",
+          "description": "Maintained fork of FoxDot for Python live coding music",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:53:25Z",
+            "owner": "e-lie",
+            "repo": "renardo",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctcsound",
+          "description": "Python bindings for Csound using ctypes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-31T06:40:00Z",
+            "owner": "csound",
+            "repo": "ctcsound",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sc3nb",
+          "description": "SuperCollider integration for Python and Jupyter notebooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T22:04:44Z",
+            "owner": "interactive-sonification",
+            "repo": "sc3nb",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Synthesis & Sound Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "music21",
+          "description": "Toolkit for computer-aided musical analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:55:47Z",
+            "owner": "cuthbertLab",
+            "repo": "music21",
+            "stars": 2554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pretty-midi",
+          "description": "MIDI data handling and manipulation library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-18T16:33:36Z",
+            "owner": "craffel",
+            "repo": "pretty-midi",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mingus",
+          "description": "Advanced music theory and notation package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T22:15:47Z",
+            "owner": "bspaans",
+            "repo": "python-mingus",
+            "stars": 927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusPy",
+          "description": "Toolkit for symbolic music generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T03:42:04Z",
+            "owner": "salu133445",
+            "repo": "muspy",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pychord",
+          "description": "Handle and transform musical chords",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T11:46:28Z",
+            "owner": "yuma-m",
+            "repo": "pychord",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIDIUtil",
+          "description": "Pure Python library for creating multi-track MIDI files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-29T03:04:31Z",
+            "owner": "MarkCWirt",
+            "repo": "MIDIUtil",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abjad",
+          "description": "Python API for building LilyPond music notation files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T09:15:56Z",
+            "owner": "Abjad",
+            "repo": "abjad",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scamp",
+          "description": "Suite for Computer-Assisted Music in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T19:12:43Z",
+            "owner": "MarcTheSpark",
+            "repo": "scamp",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maelzel",
+          "description": "Framework for computer music in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-09T16:10:17Z",
+            "owner": "gesellkammer",
+            "repo": "maelzel",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AthenaCL",
+          "description": "Algorithmic composition tool (Python 3 fork)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T09:27:43Z",
+            "owner": "ales-tsurko",
+            "repo": "athenaCL",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Music Theory & Composition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "discord.py",
+          "description": "Python wrapper for Discord API with music streaming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T18:33:15Z",
+            "owner": "Rapptz",
+            "repo": "discord.py",
+            "stars": 16137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beets",
+          "description": "Music library manager and MusicBrainz tagger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T05:01:58Z",
+            "owner": "beetbox",
+            "repo": "beets",
+            "stars": 15533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pygame.mixer",
+          "description": "Pygame module for sound loading and playback",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-01T03:05:13Z",
+            "owner": "pygame",
+            "repo": "pygame",
+            "stars": 8894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mopidy",
+          "description": "Extensible music server written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T16:06:04Z",
+            "owner": "mopidy",
+            "repo": "mopidy",
+            "stars": 8560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotipy",
+          "description": "Python client for the Spotify Web API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T12:22:52Z",
+            "owner": "spotipy-dev",
+            "repo": "spotipy",
+            "stars": 5465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusicBot",
+          "description": "Discord music bot written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T18:25:14Z",
+            "owner": "Just-Some-Bots",
+            "repo": "MusicBot",
+            "stars": 3282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyAV",
+          "description": "Pythonic bindings for FFmpeg libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:11:12Z",
+            "owner": "PyAV-Org",
+            "repo": "PyAV",
+            "stars": 3264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyglet",
+          "description": "Cross-platform windowing and multimedia library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:30:39Z",
+            "owner": "pyglet",
+            "repo": "pyglet",
+            "stars": 2210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyradio",
+          "description": "Command line internet radio player",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T17:00:00Z",
+            "owner": "coderholic",
+            "repo": "pyradio",
+            "stars": 1088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpv",
+          "description": "Python interface to MPV media player",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-25T09:55:50Z",
+            "owner": "jaseg",
+            "repo": "python-mpv",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mopidy-YouTube",
+          "description": "Mopidy extension for playing music from YouTube",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T01:56:34Z",
+            "owner": "natumbri",
+            "repo": "mopidy-youtube",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiostream",
+          "description": "Audio API for streaming raw data to speakers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T15:15:01Z",
+            "owner": "kivy",
+            "repo": "audiostream",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miniaudio",
+          "description": "Python bindings for miniaudio audio playback library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-30T14:25:06Z",
+            "owner": "irmen",
+            "repo": "pyminiaudio",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freesound-python",
+          "description": "Freesound API wrapper for audio retrieval and analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T14:52:42Z",
+            "owner": "MTG",
+            "repo": "freesound-python",
+            "stars": 156
+          }
+        }
+      ],
+      "title": "Playback & Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ESC-50",
+          "description": "Environmental sound classification dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:07:26Z",
+            "owner": "karolpiczak",
+            "repo": "ESC-50",
+            "stars": 1858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Spoken Digit Dataset",
+          "description": "Dataset of spoken digits in English",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T20:55:50Z",
+            "owner": "Jakobovski",
+            "repo": "free-spoken-digit-dataset",
+            "stars": 678
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FMA",
+          "description": "Free Music Archive dataset for music analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-05T15:15:38Z",
+            "owner": "mdeff",
+            "repo": "fma",
+            "stars": 2646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GiantMIDI-Piano",
+          "description": "Large-scale MIDI dataset of classical piano music",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-04-17T19:47:19Z",
+            "owner": "bytedance",
+            "repo": "GiantMIDI-Piano",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAION-Audio-630K",
+          "description": "Large collection of audio-text pairs for CLAP training",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T14:22:49Z",
+            "owner": "LAION-AI",
+            "repo": "audio-dataset",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jamendo Audio Tagging",
+          "description": "Multi-label audio tagging dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T15:03:08Z",
+            "owner": "MTG",
+            "repo": "mtg-jamendo-dataset",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DALI",
+          "description": "Dataset of lyrics and audio with time alignments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-11T11:07:17Z",
+            "owner": "gabolsgabs",
+            "repo": "DALI",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "symbolic-music-datasets",
+          "description": "Collection of symbolic music datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-30T09:30:32Z",
+            "owner": "wayne391",
+            "repo": "symbolic-music-datasets",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hsmusic",
+          "description": "Huge symbolic music dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-12T14:33:24Z",
+            "owner": "Didayolo",
+            "repo": "hsmusic",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper tutorial",
+          "description": "Using OpenAI Whisper for speech-to-text",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioCraft tutorial",
+          "description": "Getting started with MusicGen and AudioGen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T21:50:32Z",
+            "owner": "facebookresearch",
+            "repo": "audiocraft",
+            "stars": 23558
+          }
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:00.149Z",
+    "original_repository": "andreimatveyeu/awesome-python-audio",
+    "original_repository_sha": "7a0a42164d334db3ff77ef7a39495a2f714d1942",
+    "enhanced_repository": "enhansome/enhansome-python-audio",
+    "enhanced_repository_description": null,
+    "title": "Awesome Python Audio and Music 🎵 with stars"
+  }
+}
