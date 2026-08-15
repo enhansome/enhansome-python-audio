@@ -5,8 +5,8 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 ## Audio Processing & I/O
 
 * [PyDub](https://github.com/jiaaro/pydub) ⭐ 9,790 | 🐛 421 | 🌐 Python | 📅 2026-03-19: Manipulate audio with a simple and easy high level interface
-* [pedalboard](https://github.com/spotify/pedalboard) ⭐ 6,265 | 🐛 147 | 🌐 C++ | 📅 2026-08-10: Spotify's library for audio effects and processing
-* [torchaudio](https://github.com/pytorch/audio) ⭐ 2,925 | 🐛 337 | 🌐 Python | 📅 2026-08-14: Audio data manipulation and transformation powered by PyTorch
+* [pedalboard](https://github.com/spotify/pedalboard) ⭐ 6,266 | 🐛 147 | 🌐 C++ | 📅 2026-08-10: Spotify's library for audio effects and processing
+* [torchaudio](https://github.com/pytorch/audio) ⭐ 2,925 | 🐛 337 | 🌐 Python | 📅 2026-08-15: Audio data manipulation and transformation powered by PyTorch
 * [matchering](https://github.com/sergree/matchering) ⭐ 2,605 | 🐛 34 | 🌐 Python | 📅 2026-07-08: Open source audio matching and mastering
 * [audiomentations](https://github.com/iver56/audiomentations) ⭐ 2,310 | 🐛 59 | 🌐 Python | 📅 2026-04-13: Audio data augmentation library for machine learning
 * [noisereduce](https://github.com/timsainb/noisereduce) ⭐ 1,871 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-08-19: Noise reduction using spectral gating
@@ -22,15 +22,15 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Analysis & Feature Extraction
 
-* [librosa](https://github.com/librosa/librosa) ⭐ 8,560 | 🐛 46 | 🌐 Python | 📅 2026-08-11: Python package for music and audio analysis
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,253 | 🐛 205 | 🌐 Python | 📅 2025-08-04: Audio feature extraction classification segmentation and visualization
-* [aubio](https://github.com/aubio/aubio) ⭐ 3,745 | 🐛 157 | 🌐 C | 📅 2026-04-10: Library for audio and music analysis including pitch and beat detection
-* [Essentia](https://github.com/MTG/essentia) ⭐ 3,691 | 🐛 425 | 🌐 C++ | 📅 2026-07-22: C++ library with Python bindings for audio analysis and MIR
+* [librosa](https://github.com/librosa/librosa) ⭐ 8,560 | 🐛 47 | 🌐 Python | 📅 2026-08-11: Python package for music and audio analysis
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,254 | 🐛 205 | 🌐 Python | 📅 2025-08-04: Audio feature extraction classification segmentation and visualization
+* [aubio](https://github.com/aubio/aubio) ⭐ 3,746 | 🐛 157 | 🌐 C | 📅 2026-04-10: Library for audio and music analysis including pitch and beat detection
+* [Essentia](https://github.com/MTG/essentia) ⭐ 3,692 | 🐛 425 | 🌐 C++ | 📅 2026-07-22: C++ library with Python bindings for audio analysis and MIR
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,349 | 🐛 16 | 🌐 C | 📅 2026-03-06: Library for audio and music analysis and feature extraction
 * [Madmom](https://github.com/CPJKU/madmom) ⭐ 1,695 | 🐛 81 | 🌐 Python | 📅 2026-03-20: Audio signal processing library focused on MIR tasks
 * [Pyo](https://github.com/belangeo/pyo) ⭐ 1,448 | 🐛 32 | 🌐 Python | 📅 2026-07-20: Python DSP module with synthesis and analysis capabilities
 * [nnAudio](https://github.com/KinWaiCheuk/nnAudio) ⭐ 1,129 | 🐛 21 | 🌐 Python | 📅 2026-05-21: GPU audio processing using PyTorch neural networks
-* [mir\_eval](https://github.com/craffel/mir_eval) ⭐ 710 | 🐛 37 | 🌐 Python | 📅 2026-02-19: Evaluation functions for MIR and audio signal processing algorithms
+* [mir\_eval](https://github.com/craffel/mir_eval) ⭐ 711 | 🐛 37 | 🌐 Python | 📅 2026-02-19: Evaluation functions for MIR and audio signal processing algorithms
 * [mirdata](https://github.com/mir-dataset-loaders/mirdata) ⭐ 412 | 🐛 66 | 🌐 Python | 📅 2026-07-14: Python library for working with MIR datasets
 * [timeside](https://github.com/Parisson/TimeSide) ⭐ 394 | 🐛 33 | 🌐 Python | 📅 2024-10-14: Framework for audio analysis imaging transcoding and streaming
 * [scipy.signal](https://docs.scipy.org/doc/scipy/reference/signal.html): Signal processing routines for SciPy
@@ -47,31 +47,31 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ### Speech-to-Text
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 107,273 | 🐛 135 | 🌐 Python | 📅 2026-07-28: OpenAI's robust multilingual speech recognition model
-* [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 24,909 | 🐛 315 | 🌐 Python | 📅 2025-11-19: CTranslate2 reimplementation of Whisper up to 4x faster
-* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 23,572 | 🐛 211 | 🌐 Python | 📅 2026-07-13: Whisper with word-level timestamps and speaker diarization
-* [Vosk](https://github.com/alphacep/vosk-api) ⭐ 15,055 | 🐛 600 | 🌐 Jupyter Notebook | 📅 2026-08-09: Offline speech recognition API supporting 20+ languages
-* [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,756 | 🐛 188 | 🌐 Python | 📅 2026-06-15: PyTorch toolkit for speech processing and conversational AI
-* [pyannote-audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,418 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2026-08-04: Neural speaker diarization and voice activity detection
+* [Whisper](https://github.com/openai/whisper) ⭐ 107,326 | 🐛 135 | 🌐 Python | 📅 2026-07-28: OpenAI's robust multilingual speech recognition model
+* [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 24,929 | 🐛 315 | 🌐 Python | 📅 2025-11-19: CTranslate2 reimplementation of Whisper up to 4x faster
+* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 23,591 | 🐛 211 | 🌐 Python | 📅 2026-07-13: Whisper with word-level timestamps and speaker diarization
+* [Vosk](https://github.com/alphacep/vosk-api) ⭐ 15,057 | 🐛 600 | 🌐 Jupyter Notebook | 📅 2026-08-09: Offline speech recognition API supporting 20+ languages
+* [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,759 | 🐛 188 | 🌐 Python | 📅 2026-06-15: PyTorch toolkit for speech processing and conversational AI
+* [pyannote-audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,422 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2026-08-04: Neural speaker diarization and voice activity detection
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) ⭐ 8,985 | 🐛 311 | 🌐 Python | 📅 2026-07-31: Library for performing speech recognition with multiple backends
 
 ### Text-to-Speech
 
-* [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 45,899 | 🐛 4 | 🌐 Python | 📅 2024-08-16: Deep learning toolkit for Text-to-Speech
+* [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 45,906 | 🐛 4 | 🌐 Python | 📅 2024-08-16: Deep learning toolkit for Text-to-Speech
 * [Bark](https://github.com/suno-ai/bark) ⭐ 39,239 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2024-08-19: Transformer-based text-to-audio model with emotions and non-speech sounds
-* [pyttsx3](https://github.com/nateshmbhat/pyttsx3) ⭐ 2,529 | 🐛 90 | 🌐 Python | 📅 2026-07-22: Offline text-to-speech conversion library
+* [pyttsx3](https://github.com/nateshmbhat/pyttsx3) ⭐ 2,530 | 🐛 90 | 🌐 Python | 📅 2026-07-22: Offline text-to-speech conversion library
 
 ## Source Separation
 
-* [Spleeter](https://github.com/deezer/spleeter) ⭐ 28,369 | 🐛 278 | 🌐 Python | 📅 2026-06-18: Deezer source separation library (note: Demucs now preferred)
+* [Spleeter](https://github.com/deezer/spleeter) ⭐ 28,371 | 🐛 278 | 🌐 Python | 📅 2026-06-18: Deezer source separation library (note: Demucs now preferred)
 * [Demucs](https://github.com/facebookresearch/demucs) ⚠️ Archived: State-of-the-art music source separation from Meta
-* [Asteroid](https://github.com/asteroid-team/asteroid) ⭐ 2,582 | 🐛 55 | 🌐 Python | 📅 2026-05-13: PyTorch-based audio source separation toolkit for researchers
-* [audio-separator](https://github.com/nomadkaraoke/python-audio-separator) ⭐ 1,314 | 🐛 30 | 🌐 Python | 📅 2026-07-20: Easy stem separation using MDX-Net VR Arch and Demucs models
+* [Asteroid](https://github.com/asteroid-team/asteroid) ⭐ 2,583 | 🐛 55 | 🌐 Python | 📅 2026-05-13: PyTorch-based audio source separation toolkit for researchers
+* [audio-separator](https://github.com/nomadkaraoke/python-audio-separator) ⭐ 1,315 | 🐛 30 | 🌐 Python | 📅 2026-07-20: Easy stem separation using MDX-Net VR Arch and Demucs models
 * [pydsm](https://github.com/google-research/sound-separation) ⚠️ Archived: Google's toolkit for sound separation using deep learning
 
 ## Music Transcription & Pitch
 
-* [basic-pitch](https://github.com/spotify/basic-pitch) ⭐ 5,430 | 🐛 59 | 🌐 Python | 📅 2025-11-13: Spotify's lightweight neural network for polyphonic pitch detection
+* [basic-pitch](https://github.com/spotify/basic-pitch) ⭐ 5,433 | 🐛 59 | 🌐 Python | 📅 2025-11-13: Spotify's lightweight neural network for polyphonic pitch detection
 * [MT3](https://github.com/magenta/mt3) ⭐ 1,739 | 🐛 51 | 🌐 Python | 📅 2026-07-09: Multi-instrument automatic music transcription from Google Magenta
 * [CREPE](https://github.com/marl/crepe) ⭐ 1,411 | 🐛 45 | 🌐 Python | 📅 2024-08-19: Monophonic pitch tracker using deep convolutional neural network
 * [torchcrepe](https://github.com/maxrmorrison/torchcrepe) ⭐ 523 | 🐛 6 | 🌐 Python | 📅 2025-05-16: PyTorch implementation of CREPE pitch tracker
@@ -83,12 +83,12 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 * [Magenta](https://github.com/magenta/magenta) ⚠️ Archived: Google's machine learning for music and art generation
 * [NSynth](https://github.com/magenta/magenta/tree/main/magenta/models/nsynth) ⚠️ Archived: Neural audio synthesis model from Magenta
 * [Riffusion](https://github.com/riffusion/riffusion-hobby) ⭐ 3,901 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Real-time music generation using stable diffusion on spectrograms
-* [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools) ⭐ 3,840 | 🐛 129 | 🌐 Python | 📅 2026-08-09: Generative models for conditional audio generation from Stability AI
+* [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools) ⭐ 3,841 | 🐛 129 | 🌐 Python | 📅 2026-08-09: Generative models for conditional audio generation from Stability AI
 * [musicautobot](https://github.com/bearpelican/musicautobot) ⭐ 553 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2021-02-08: Music generation with transformers using fastai
 
 ## Synthesis & Sound Design
 
-* [Mido](https://github.com/mido/mido) ⭐ 1,632 | 🐛 119 | 🌐 Python | 📅 2026-06-27: MIDI objects for Python
+* [Mido](https://github.com/mido/mido) ⭐ 1,633 | 🐛 120 | 🌐 Python | 📅 2026-06-27: MIDI objects for Python
 * [pyfluidsynth](https://github.com/nwhitehead/pyfluidsynth) ⭐ 255 | 🐛 4 | 🌐 Python | 📅 2026-07-27: Python bindings for FluidSynth software synthesizer
 * [Python-audio](https://github.com/mgeier/python-audio) ⭐ 196 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-26: Jupyter notebooks about audio signal processing with Python
 * [Renardo](https://github.com/e-lie/renardo) ⭐ 92 | 🐛 28 | 🌐 Python | 📅 2026-07-30: Maintained fork of FoxDot for Python live coding music
@@ -98,8 +98,8 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Music Theory & Composition
 
-* [music21](https://github.com/cuthbertLab/music21) ⭐ 2,558 | 🐛 155 | 🌐 Python | 📅 2026-08-12: Toolkit for computer-aided musical analysis
-* [pretty-midi](https://github.com/craffel/pretty-midi) ⭐ 1,035 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2026-02-18: MIDI data handling and manipulation library
+* [music21](https://github.com/cuthbertLab/music21) ⭐ 2,559 | 🐛 155 | 🌐 Python | 📅 2026-08-12: Toolkit for computer-aided musical analysis
+* [pretty-midi](https://github.com/craffel/pretty-midi) ⭐ 1,036 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2026-02-18: MIDI data handling and manipulation library
 * [mingus](https://github.com/bspaans/python-mingus) ⭐ 927 | 🐛 65 | 🌐 Python | 📅 2024-04-21: Advanced music theory and notation package
 * [MusPy](https://github.com/salu133445/muspy) ⭐ 523 | 🐛 26 | 🌐 Python | 📅 2026-03-11: Toolkit for symbolic music generation
 * [pychord](https://github.com/yuma-m/pychord) ⭐ 289 | 🐛 15 | 🌐 Python | 📅 2026-05-10: Handle and transform musical chords
@@ -112,15 +112,15 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Playback & Services
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,135 | 🐛 160 | 🌐 Python | 📅 2026-07-27: Python wrapper for Discord API with music streaming
-* [beets](https://github.com/beetbox/beets) ⭐ 15,540 | 🐛 709 | 🌐 Python | 📅 2026-08-13: Music library manager and MusicBrainz tagger
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,137 | 🐛 159 | 🌐 Python | 📅 2026-07-27: Python wrapper for Discord API with music streaming
+* [beets](https://github.com/beetbox/beets) ⭐ 15,543 | 🐛 706 | 🌐 Python | 📅 2026-08-15: Music library manager and MusicBrainz tagger
 * [pygame.mixer](https://github.com/pygame/pygame) ⭐ 8,896 | 🐛 788 | 🌐 C | 📅 2025-11-01: Pygame module for sound loading and playback
 * [Mopidy](https://github.com/mopidy/mopidy) ⭐ 8,560 | 🐛 227 | 🌐 Python | 📅 2026-07-29: Extensible music server written in Python
 * [Spotipy](https://github.com/spotipy-dev/spotipy) ⭐ 5,467 | 🐛 62 | 🌐 Python | 📅 2026-06-29: Python client for the Spotify Web API
 * [MusicBot](https://github.com/just-some-bots/MusicBot) ⭐ 3,282 | 🐛 15 | 🌐 Python | 📅 2026-03-14: Discord music bot written in Python
-* [pyAV](https://github.com/PyAV-org/PyAV) ⭐ 3,266 | 🐛 4 | 🌐 Python | 📅 2026-08-13: Pythonic bindings for FFmpeg libraries
-* [pyglet](https://github.com/pyglet/pyglet) ⭐ 2,210 | 🐛 54 | 🌐 Python | 📅 2026-08-13: Cross-platform windowing and multimedia library
-* [pyradio](https://github.com/coderholic/pyradio) ⭐ 1,088 | 🐛 11 | 🌐 Python | 📅 2026-05-07: Command line internet radio player
+* [pyAV](https://github.com/PyAV-org/PyAV) ⭐ 3,266 | 🐛 4 | 🌐 Python | 📅 2026-08-15: Pythonic bindings for FFmpeg libraries
+* [pyglet](https://github.com/pyglet/pyglet) ⭐ 2,209 | 🐛 54 | 🌐 Python | 📅 2026-08-13: Cross-platform windowing and multimedia library
+* [pyradio](https://github.com/coderholic/pyradio) ⭐ 1,089 | 🐛 11 | 🌐 Python | 📅 2026-05-07: Command line internet radio player
 * [mpv](https://github.com/jaseg/python-mpv) ⭐ 631 | 🐛 30 | 🌐 Python | 📅 2025-04-25: Python interface to MPV media player
 * [Mopidy-YouTube](https://github.com/natumbri/mopidy-youtube) ⭐ 279 | 🐛 15 | 🌐 Python | 📅 2026-05-04: Mopidy extension for playing music from YouTube
 * [audiostream](https://github.com/kivy/audiostream) ⭐ 203 | 🐛 11 | 🌐 Python | 📅 2024-02-03: Audio API for streaming raw data to speakers
@@ -131,7 +131,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ### Audio
 
-* [ESC-50](https://github.com/karolpiczak/ESC-50) ⭐ 1,857 | 🐛 3 | 🌐 Python | 📅 2024-03-20: Environmental sound classification dataset
+* [ESC-50](https://github.com/karolpiczak/ESC-50) ⭐ 1,858 | 🐛 3 | 🌐 Python | 📅 2024-03-20: Environmental sound classification dataset
 * [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset) ⭐ 678 | 🐛 7 | 🌐 Python | 📅 2024-05-02: Dataset of spoken digits in English
 * [AudioSet](https://research.google.com/audioset/): Large-scale dataset of manually annotated audio events
 * [Birdsong](https://www.kaggle.com/c/birdsong-recognition): Dataset of annotated bird songs and calls
@@ -170,7 +170,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Tutorials
 
-* [Whisper tutorial](https://github.com/openai/whisper/discussions/categories/guides) ⭐ 107,273 | 🐛 135 | 🌐 Python | 📅 2026-07-28: Using OpenAI Whisper for speech-to-text
+* [Whisper tutorial](https://github.com/openai/whisper/discussions/categories/guides) ⭐ 107,326 | 🐛 135 | 🌐 Python | 📅 2026-07-28: Using OpenAI Whisper for speech-to-text
 * [AudioCraft tutorial](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md) ⭐ 23,562 | 🐛 394 | 🌐 Jupyter Notebook | 📅 2026-03-03: Getting started with MusicGen and AudioGen
 * [librosa tutorial - Introduction](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering spectrograms and remixing
 * [librosa tutorial - Visualization](https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/): Visualizing sounds using librosa and matplotlib
@@ -179,4 +179,4 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
