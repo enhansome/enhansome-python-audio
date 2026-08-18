@@ -14,7 +14,7 @@
             "last_commit": "2026-03-19T21:32:30Z",
             "owner": "jiaaro",
             "repo": "pydub",
-            "stars": 9790
+            "stars": 9791
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:40:43Z",
+            "last_commit": "2026-08-18T11:40:49Z",
             "owner": "pytorch",
             "repo": "audio",
-            "stars": 2926
+            "stars": 2925
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-08T14:37:52Z",
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2607
+            "stars": 2609
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-08-19T04:41:53Z",
             "owner": "timsainb",
             "repo": "noisereduce",
-            "stars": 1871
+            "stars": 1872
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-14T04:59:14Z",
             "owner": "bastibe",
             "repo": "python-soundfile",
-            "stars": 848
+            "stars": 849
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:22:30Z",
+            "last_commit": "2026-08-18T22:37:23Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8563
+            "stars": 8565
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-04-10T16:42:19Z",
             "owner": "aubio",
             "repo": "aubio",
-            "stars": 3750
+            "stars": 3749
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3696
+            "stars": 3697
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3349
+            "stars": 3348
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-03-20T09:38:58Z",
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1695
+            "stars": 1696
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-20T17:13:45Z",
             "owner": "belangeo",
             "repo": "pyo",
-            "stars": 1448
+            "stars": 1447
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-05-15T19:55:29Z",
             "owner": "LAION-AI",
             "repo": "CLAP",
-            "stars": 2252
+            "stars": 2253
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2023-06-17T10:56:46Z",
             "owner": "marl",
             "repo": "openl3",
-            "stars": 603
+            "stars": 604
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107471
+            "stars": 107560
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24962
+            "stars": 24972
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23614
+            "stars": 23632
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15063
+            "stars": 15064
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-06-15T11:24:25Z",
             "owner": "speechbrain",
             "repo": "speechbrain",
-            "stars": 11760
+            "stars": 11762
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10430
+            "stars": 10432
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-07-31T14:23:35Z",
             "owner": "Uberi",
             "repo": "speech_recognition",
-            "stars": 8983
+            "stars": 8984
           }
         }
       ],
@@ -533,7 +533,7 @@
             "last_commit": "2024-08-16T12:07:14Z",
             "owner": "coqui-ai",
             "repo": "TTS",
-            "stars": 45908
+            "stars": 45911
           }
         },
         {
@@ -547,7 +547,7 @@
             "last_commit": "2024-08-19T07:45:36Z",
             "owner": "suno-ai",
             "repo": "bark",
-            "stars": 39239
+            "stars": 39240
           }
         },
         {
@@ -581,7 +581,7 @@
             "last_commit": "2026-06-18T15:22:32Z",
             "owner": "deezer",
             "repo": "spleeter",
-            "stars": 28377
+            "stars": 28383
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-05-13T12:56:36Z",
             "owner": "asteroid-team",
             "repo": "asteroid",
-            "stars": 2583
+            "stars": 2584
           }
         },
         {
@@ -623,7 +623,7 @@
             "last_commit": "2026-07-20T22:02:46Z",
             "owner": "nomadkaraoke",
             "repo": "python-audio-separator",
-            "stars": 1317
+            "stars": 1320
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2025-11-13T14:40:46Z",
             "owner": "spotify",
             "repo": "basic-pitch",
-            "stars": 5444
+            "stars": 5448
           }
         },
         {
@@ -671,7 +671,7 @@
             "last_commit": "2026-07-09T03:02:13Z",
             "owner": "magenta",
             "repo": "mt3",
-            "stars": 1739
+            "stars": 1740
           }
         },
         {
@@ -733,7 +733,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23562
+            "stars": 23564
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -913,7 +913,7 @@
             "last_commit": "2026-08-12T22:55:47Z",
             "owner": "cuthbertLab",
             "repo": "music21",
-            "stars": 2563
+            "stars": 2567
           }
         },
         {
@@ -955,7 +955,7 @@
             "last_commit": "2026-03-11T03:42:04Z",
             "owner": "salu133445",
             "repo": "muspy",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -997,7 +997,7 @@
             "last_commit": "2025-12-15T09:15:56Z",
             "owner": "Abjad",
             "repo": "abjad",
-            "stars": 266
+            "stars": 268
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16136
+            "stars": 16140
           }
         },
         {
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:16:51Z",
+            "last_commit": "2026-08-18T22:29:23Z",
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15551
+            "stars": 15554
           }
         },
         {
@@ -1098,7 +1098,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T22:31:43Z",
+            "last_commit": "2026-08-18T22:52:25Z",
             "owner": "mopidy",
             "repo": "mopidy",
             "stars": 8559
@@ -1115,7 +1115,7 @@
             "last_commit": "2026-06-29T12:22:52Z",
             "owner": "spotipy-dev",
             "repo": "spotipy",
-            "stars": 5468
+            "stars": 5469
           }
         },
         {
@@ -1140,7 +1140,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T18:09:32Z",
+            "last_commit": "2026-08-18T14:02:08Z",
             "owner": "PyAV-Org",
             "repo": "PyAV",
             "stars": 3266
@@ -1157,7 +1157,7 @@
             "last_commit": "2026-08-17T20:27:40Z",
             "owner": "pyglet",
             "repo": "pyglet",
-            "stars": 2208
+            "stars": 2209
           }
         },
         {
@@ -1300,7 +1300,7 @@
             "last_commit": "2023-01-05T15:15:38Z",
             "owner": "mdeff",
             "repo": "fma",
-            "stars": 2646
+            "stars": 2648
           }
         },
         {
@@ -1404,7 +1404,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107471
+            "stars": 107560
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23562
+            "stars": 23564
           }
         }
       ],
@@ -1426,7 +1426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:53:52.941Z",
+    "last_updated": "2026-08-18T22:54:58.128Z",
     "original_repository": "andreimatveyeu/awesome-python-audio",
     "original_repository_sha": "7a0a42164d334db3ff77ef7a39495a2f714d1942",
     "enhanced_repository": "enhansome/enhansome-python-audio",
