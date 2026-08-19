@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1692604,
             "language": "Python",
             "last_commit": "2026-03-19T21:32:30Z",
             "owner": "jiaaro",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383471193,
             "language": "C++",
             "last_commit": "2026-08-10T23:19:35Z",
             "owner": "spotify",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90321822,
             "language": "Python",
-            "last_commit": "2026-08-18T11:40:49Z",
+            "last_commit": "2026-08-19T11:40:34Z",
             "owner": "pytorch",
             "repo": "audio",
             "stars": 2925
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150785299,
             "language": "Python",
             "last_commit": "2026-07-08T14:37:52Z",
             "owner": "sergree",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170352817,
             "language": "Python",
             "last_commit": "2026-04-13T22:04:14Z",
             "owner": "iver56",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174219582,
             "language": "Jupyter Notebook",
             "last_commit": "2025-08-19T04:41:53Z",
             "owner": "timsainb",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37774726,
             "language": "Python",
             "last_commit": "2026-08-17T08:23:23Z",
             "owner": "spatialaudio",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274189099,
             "language": "Python",
             "last_commit": "2025-11-24T20:07:26Z",
             "owner": "iver56",
             "repo": "torch-audiomentations",
-            "stars": 1164
+            "stars": 1163
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12406971,
             "language": "Python",
             "last_commit": "2026-07-14T04:59:14Z",
             "owner": "bastibe",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2736480,
             "language": "Python",
             "last_commit": "2026-04-09T14:33:08Z",
             "owner": "beetbox",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197088356,
             "language": "Python",
             "last_commit": "2023-07-06T22:21:16Z",
             "owner": "jsingh811",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233295070,
             "language": "Python",
             "last_commit": "2024-11-06T19:30:46Z",
             "owner": "sergree",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364091755,
             "language": "Rust",
             "last_commit": "2023-03-06T00:12:59Z",
             "owner": "babycat-io",
@@ -189,7 +202,7 @@
       "title": "Audio Processing & I/O"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,8 +211,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6309729,
             "language": "Python",
-            "last_commit": "2026-08-18T22:37:23Z",
+            "last_commit": "2026-08-19T02:40:10Z",
             "owner": "librosa",
             "repo": "librosa",
             "stars": 8565
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23389271,
             "language": "Python",
             "last_commit": "2025-08-04T16:44:35Z",
             "owner": "tyiannak",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396389,
             "language": "C",
             "last_commit": "2026-04-10T16:42:19Z",
             "owner": "aubio",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10456942,
             "language": "C++",
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589514195,
             "language": "C",
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42099318,
             "language": "Python",
             "last_commit": "2026-03-20T09:38:58Z",
             "owner": "CPJKU",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41371288,
             "language": "Python",
             "last_commit": "2026-07-20T17:13:45Z",
             "owner": "belangeo",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205777020,
             "language": "Python",
             "last_commit": "2026-05-21T00:17:23Z",
             "owner": "KinWaiCheuk",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11929631,
             "language": "Python",
             "last_commit": "2026-02-19T21:07:16Z",
             "owner": "mir-evaluation",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170765267,
             "language": "Python",
             "last_commit": "2026-07-14T13:30:17Z",
             "owner": "mir-dataset-loaders",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2823346,
             "language": "Python",
             "last_commit": "2024-10-14T17:26:35Z",
             "owner": "Parisson",
@@ -349,7 +373,7 @@
       "title": "Analysis & Feature Extraction"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466845016,
             "language": "Python",
             "last_commit": "2025-05-15T19:55:29Z",
             "owner": "LAION-AI",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560994406,
             "language": "Python",
             "last_commit": "2024-09-18T21:40:17Z",
             "owner": "microsoft",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153459506,
             "language": "Jupyter Notebook",
             "last_commit": "2023-06-17T10:56:46Z",
             "owner": "marl",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245763487,
             "language": "Python",
             "last_commit": "2024-03-05T18:07:23Z",
             "owner": "qiuqiangkong",
@@ -411,164 +439,177 @@
       "title": "Audio Embeddings & Representations"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whisper",
+              "description": "OpenAI's robust multilingual speech recognition model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537603333,
+                "language": "Python",
+                "last_commit": "2026-07-28T20:18:29Z",
+                "owner": "openai",
+                "repo": "whisper",
+                "stars": 107601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faster-whisper",
+              "description": "CTranslate2 reimplementation of Whisper up to 4x faster",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600368121,
+                "language": "Python",
+                "last_commit": "2025-11-19T14:40:46Z",
+                "owner": "SYSTRAN",
+                "repo": "faster-whisper",
+                "stars": 24990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WhisperX",
+              "description": "Whisper with word-level timestamps and speaker diarization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576103395,
+                "language": "Python",
+                "last_commit": "2026-07-13T08:30:07Z",
+                "owner": "m-bain",
+                "repo": "whisperX",
+                "stars": 23645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vosk",
+              "description": "Offline speech recognition API supporting 20+ languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206138137,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-09T13:35:47Z",
+                "owner": "alphacep",
+                "repo": "vosk-api",
+                "stars": 15067
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeechBrain",
+              "description": "PyTorch toolkit for speech processing and conversational AI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259710503,
+                "language": "Python",
+                "last_commit": "2026-06-15T11:24:25Z",
+                "owner": "speechbrain",
+                "repo": "speechbrain",
+                "stars": 11763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyannote-audio",
+              "description": "Neural speaker diarization and voice activity detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53344691,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-04T17:30:45Z",
+                "owner": "pyannote",
+                "repo": "pyannote-audio",
+                "stars": 10432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeechRecognition",
+              "description": "Library for performing speech recognition with multiple backends",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19057465,
+                "language": "Python",
+                "last_commit": "2026-07-31T14:23:35Z",
+                "owner": "Uberi",
+                "repo": "speech_recognition",
+                "stars": 8983
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech-to-Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Coqui TTS",
+              "description": "Deep learning toolkit for Text-to-Speech",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265612440,
+                "language": "Python",
+                "last_commit": "2024-08-16T12:07:14Z",
+                "owner": "coqui-ai",
+                "repo": "TTS",
+                "stars": 45916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bark",
+              "description": "Transformer-based text-to-audio model with emotions and non-speech sounds",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624994625,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-19T07:45:36Z",
+                "owner": "suno-ai",
+                "repo": "bark",
+                "stars": 39240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyttsx3",
+              "description": "Offline text-to-speech conversion library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95295862,
+                "language": "Python",
+                "last_commit": "2026-07-22T06:14:56Z",
+                "owner": "nateshmbhat",
+                "repo": "pyttsx3",
+                "stars": 2531
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text-to-Speech"
+        }
+      ],
       "title": "Speech Processing"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Whisper",
-          "description": "OpenAI's robust multilingual speech recognition model",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T20:18:29Z",
-            "owner": "openai",
-            "repo": "whisper",
-            "stars": 107560
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "faster-whisper",
-          "description": "CTranslate2 reimplementation of Whisper up to 4x faster",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-19T14:40:46Z",
-            "owner": "SYSTRAN",
-            "repo": "faster-whisper",
-            "stars": 24972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WhisperX",
-          "description": "Whisper with word-level timestamps and speaker diarization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-13T08:30:07Z",
-            "owner": "m-bain",
-            "repo": "whisperX",
-            "stars": 23632
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vosk",
-          "description": "Offline speech recognition API supporting 20+ languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-09T13:35:47Z",
-            "owner": "alphacep",
-            "repo": "vosk-api",
-            "stars": 15064
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpeechBrain",
-          "description": "PyTorch toolkit for speech processing and conversational AI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T11:24:25Z",
-            "owner": "speechbrain",
-            "repo": "speechbrain",
-            "stars": 11762
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyannote-audio",
-          "description": "Neural speaker diarization and voice activity detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-04T17:30:45Z",
-            "owner": "pyannote",
-            "repo": "pyannote-audio",
-            "stars": 10432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpeechRecognition",
-          "description": "Library for performing speech recognition with multiple backends",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T14:23:35Z",
-            "owner": "Uberi",
-            "repo": "speech_recognition",
-            "stars": 8984
-          }
-        }
-      ],
-      "title": "Speech-to-Text"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Coqui TTS",
-          "description": "Deep learning toolkit for Text-to-Speech",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-16T12:07:14Z",
-            "owner": "coqui-ai",
-            "repo": "TTS",
-            "stars": 45911
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bark",
-          "description": "Transformer-based text-to-audio model with emotions and non-speech sounds",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-19T07:45:36Z",
-            "owner": "suno-ai",
-            "repo": "bark",
-            "stars": 39240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyttsx3",
-          "description": "Offline text-to-speech conversion library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-22T06:14:56Z",
-            "owner": "nateshmbhat",
-            "repo": "pyttsx3",
-            "stars": 2530
-          }
-        }
-      ],
-      "title": "Text-to-Speech"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -577,11 +618,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211124697,
             "language": "Python",
             "last_commit": "2026-06-18T15:22:32Z",
             "owner": "deezer",
             "repo": "spleeter",
-            "stars": 28383
+            "stars": 28389
           }
         },
         {
@@ -591,11 +633,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 217436984,
             "language": "Python",
             "last_commit": "2024-04-24T20:25:19Z",
             "owner": "facebookresearch",
             "repo": "demucs",
-            "stars": 10356
+            "stars": 10355
           }
         },
         {
@@ -605,6 +648,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215969476,
             "language": "Python",
             "last_commit": "2026-05-13T12:56:36Z",
             "owner": "asteroid-team",
@@ -619,11 +663,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660487718,
             "language": "Python",
             "last_commit": "2026-07-20T22:02:46Z",
             "owner": "nomadkaraoke",
             "repo": "python-audio-separator",
-            "stars": 1320
+            "stars": 1321
           }
         },
         {
@@ -633,6 +678,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 244553757,
             "language": "Python",
             "last_commit": "2024-10-02T16:41:12Z",
             "owner": "google-research",
@@ -644,7 +690,7 @@
       "title": "Source Separation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -653,11 +699,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488142653,
             "language": "Python",
             "last_commit": "2025-11-13T14:40:46Z",
             "owner": "spotify",
             "repo": "basic-pitch",
-            "stars": 5448
+            "stars": 5453
           }
         },
         {
@@ -667,6 +714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424396278,
             "language": "Python",
             "last_commit": "2026-07-09T03:02:13Z",
             "owner": "magenta",
@@ -681,6 +729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114515852,
             "language": "Python",
             "last_commit": "2024-08-19T18:12:09Z",
             "owner": "marl",
@@ -695,6 +744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269126297,
             "language": "Python",
             "last_commit": "2025-05-16T18:24:44Z",
             "owner": "maxrmorrison",
@@ -709,6 +759,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296532263,
             "language": "Python",
             "last_commit": "2025-01-26T02:27:22Z",
             "owner": "qiuqiangkong",
@@ -720,7 +771,7 @@
       "title": "Music Transcription & Pitch"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -729,6 +780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650945129,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
@@ -743,6 +795,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58157629,
             "language": "Python",
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
@@ -757,6 +810,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58157629,
             "language": "Python",
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
@@ -771,6 +825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570696986,
             "language": "Python",
             "last_commit": "2024-07-22T18:09:39Z",
             "owner": "riffusion",
@@ -785,6 +840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644481540,
             "language": "Python",
             "last_commit": "2026-08-09T06:39:18Z",
             "owner": "Stability-AI",
@@ -799,6 +855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164193282,
             "language": "Jupyter Notebook",
             "last_commit": "2021-02-08T23:02:58Z",
             "owner": "bearpelican",
@@ -810,7 +867,7 @@
       "title": "Music Generation & AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -819,6 +876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10889417,
             "language": "Python",
             "last_commit": "2026-06-27T13:13:18Z",
             "owner": "mido",
@@ -833,6 +891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30775864,
             "language": "Python",
             "last_commit": "2026-08-17T11:31:46Z",
             "owner": "amberwhitehead",
@@ -847,6 +906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13346423,
             "language": "Jupyter Notebook",
             "last_commit": "2026-04-26T14:51:19Z",
             "owner": "mgeier",
@@ -861,6 +921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671132714,
             "language": "Python",
             "last_commit": "2026-07-30T09:53:25Z",
             "owner": "e-lie",
@@ -875,6 +936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50721237,
             "language": "Jupyter Notebook",
             "last_commit": "2023-05-31T06:40:00Z",
             "owner": "csound",
@@ -889,6 +951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171264950,
             "language": "Python",
             "last_commit": "2025-10-24T22:04:44Z",
             "owner": "interactive-sonification",
@@ -900,7 +963,7 @@
       "title": "Synthesis & Sound Design"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -909,11 +972,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14121294,
             "language": "Python",
             "last_commit": "2026-08-12T22:55:47Z",
             "owner": "cuthbertLab",
             "repo": "music21",
-            "stars": 2567
+            "stars": 2566
           }
         },
         {
@@ -923,6 +987,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11820959,
             "language": "Jupyter Notebook",
             "last_commit": "2026-02-18T16:33:36Z",
             "owner": "craffel",
@@ -937,6 +1002,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28109092,
             "language": "Python",
             "last_commit": "2024-04-21T22:15:47Z",
             "owner": "bspaans",
@@ -951,6 +1017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247167654,
             "language": "Python",
             "last_commit": "2026-03-11T03:42:04Z",
             "owner": "salu133445",
@@ -965,6 +1032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56831251,
             "language": "Python",
             "last_commit": "2026-05-10T11:46:28Z",
             "owner": "yuma-m",
@@ -979,6 +1047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69059211,
             "language": "Python",
             "last_commit": "2022-04-29T03:04:31Z",
             "owner": "MarkCWirt",
@@ -993,6 +1062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13958501,
             "language": "Python",
             "last_commit": "2025-12-15T09:15:56Z",
             "owner": "Abjad",
@@ -1007,6 +1077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122102488,
             "language": "Python",
             "last_commit": "2026-08-01T19:12:43Z",
             "owner": "MarcTheSpark",
@@ -1021,6 +1092,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325012987,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-09T16:10:17Z",
             "owner": "gesellkammer",
@@ -1035,6 +1107,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107402619,
             "language": "Python",
             "last_commit": "2026-04-23T09:27:43Z",
             "owner": "ales-tsurko",
@@ -1046,7 +1119,7 @@
       "title": "Music Theory & Composition"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1055,11 +1128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41179827,
             "language": "Python",
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16140
+            "stars": 16143
           }
         },
         {
@@ -1069,11 +1143,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 827590,
             "language": "Python",
-            "last_commit": "2026-08-18T22:29:23Z",
+            "last_commit": "2026-08-19T12:00:42Z",
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15554
+            "stars": 15558
           }
         },
         {
@@ -1083,11 +1158,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86245815,
             "language": "C",
             "last_commit": "2025-11-01T03:05:13Z",
             "owner": "pygame",
             "repo": "pygame",
-            "stars": 8898
+            "stars": 8899
           }
         },
         {
@@ -1097,6 +1173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447036,
             "language": "Python",
             "last_commit": "2026-08-18T22:52:25Z",
             "owner": "mopidy",
@@ -1111,6 +1188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18467027,
             "language": "Python",
             "last_commit": "2026-06-29T12:22:52Z",
             "owner": "spotipy-dev",
@@ -1125,6 +1203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48729353,
             "language": "Python",
             "last_commit": "2026-03-14T18:25:14Z",
             "owner": "Just-Some-Bots",
@@ -1139,8 +1218,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6854611,
             "language": "Python",
-            "last_commit": "2026-08-18T14:02:08Z",
+            "last_commit": "2026-08-19T04:12:47Z",
             "owner": "PyAV-Org",
             "repo": "PyAV",
             "stars": 3266
@@ -1153,11 +1233,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191043601,
             "language": "Python",
             "last_commit": "2026-08-17T20:27:40Z",
             "owner": "pyglet",
             "repo": "pyglet",
-            "stars": 2209
+            "stars": 2208
           }
         },
         {
@@ -1167,6 +1248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55984,
             "language": "Python",
             "last_commit": "2026-05-07T17:00:00Z",
             "owner": "coderholic",
@@ -1181,6 +1263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22819082,
             "language": "Python",
             "last_commit": "2025-04-25T09:55:50Z",
             "owner": "jaseg",
@@ -1195,6 +1278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16929683,
             "language": "Python",
             "last_commit": "2026-05-04T01:56:34Z",
             "owner": "natumbri",
@@ -1209,11 +1293,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3983567,
             "language": "Python",
             "last_commit": "2024-02-03T15:15:01Z",
             "owner": "kivy",
             "repo": "audiostream",
-            "stars": 203
+            "stars": 204
           }
         },
         {
@@ -1223,6 +1308,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194569959,
             "language": "C",
             "last_commit": "2026-05-30T14:25:06Z",
             "owner": "irmen",
@@ -1237,6 +1323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954509,
             "language": "Python",
             "last_commit": "2025-12-23T14:52:42Z",
             "owner": "MTG",
@@ -1248,150 +1335,162 @@
       "title": "Playback & Services"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ESC-50",
+              "description": "Environmental sound classification dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33984438,
+                "language": "Python",
+                "last_commit": "2024-03-20T15:07:26Z",
+                "owner": "karolpiczak",
+                "repo": "ESC-50",
+                "stars": 1859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free Spoken Digit Dataset",
+              "description": "Dataset of spoken digits in English",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61622039,
+                "language": "Python",
+                "last_commit": "2024-05-02T20:55:50Z",
+                "owner": "Jakobovski",
+                "repo": "free-spoken-digit-dataset",
+                "stars": 678
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FMA",
+              "description": "Free Music Archive dataset for music analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75407467,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-05T15:15:38Z",
+                "owner": "mdeff",
+                "repo": "fma",
+                "stars": 2648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GiantMIDI-Piano",
+              "description": "Large-scale MIDI dataset of classical piano music",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 296001097,
+                "language": "Python",
+                "last_commit": "2022-04-17T19:47:19Z",
+                "owner": "bytedance",
+                "repo": "GiantMIDI-Piano",
+                "stars": 1895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LAION-Audio-630K",
+              "description": "Large collection of audio-text pairs for CLAP training",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466980236,
+                "language": "Python",
+                "last_commit": "2026-01-08T14:22:49Z",
+                "owner": "LAION-AI",
+                "repo": "audio-dataset",
+                "stars": 749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jamendo Audio Tagging",
+              "description": "Multi-label audio tagging dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183457746,
+                "language": "Python",
+                "last_commit": "2026-03-18T15:03:08Z",
+                "owner": "MTG",
+                "repo": "mtg-jamendo-dataset",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DALI",
+              "description": "Dataset of lyrics and audio with time alignments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136622322,
+                "language": "Python",
+                "last_commit": "2020-06-11T11:07:17Z",
+                "owner": "gabolsgabs",
+                "repo": "DALI",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "symbolic-music-datasets",
+              "description": "Collection of symbolic music datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109811479,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-30T09:30:32Z",
+                "owner": "wayne391",
+                "repo": "symbolic-music-datasets",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hsmusic",
+              "description": "Huge symbolic music dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169663434,
+                "language": null,
+                "last_commit": "2020-11-12T14:33:24Z",
+                "owner": "Didayolo",
+                "repo": "hsmusic",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music"
+        }
+      ],
       "title": "Datasets"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ESC-50",
-          "description": "Environmental sound classification dataset",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-20T15:07:26Z",
-            "owner": "karolpiczak",
-            "repo": "ESC-50",
-            "stars": 1859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Free Spoken Digit Dataset",
-          "description": "Dataset of spoken digits in English",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-02T20:55:50Z",
-            "owner": "Jakobovski",
-            "repo": "free-spoken-digit-dataset",
-            "stars": 678
-          }
-        }
-      ],
-      "title": "Audio"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FMA",
-          "description": "Free Music Archive dataset for music analysis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-01-05T15:15:38Z",
-            "owner": "mdeff",
-            "repo": "fma",
-            "stars": 2648
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GiantMIDI-Piano",
-          "description": "Large-scale MIDI dataset of classical piano music",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-04-17T19:47:19Z",
-            "owner": "bytedance",
-            "repo": "GiantMIDI-Piano",
-            "stars": 1895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LAION-Audio-630K",
-          "description": "Large collection of audio-text pairs for CLAP training",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-08T14:22:49Z",
-            "owner": "LAION-AI",
-            "repo": "audio-dataset",
-            "stars": 749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jamendo Audio Tagging",
-          "description": "Multi-label audio tagging dataset",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T15:03:08Z",
-            "owner": "MTG",
-            "repo": "mtg-jamendo-dataset",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DALI",
-          "description": "Dataset of lyrics and audio with time alignments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-11T11:07:17Z",
-            "owner": "gabolsgabs",
-            "repo": "DALI",
-            "stars": 381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "symbolic-music-datasets",
-          "description": "Collection of symbolic music datasets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-06-30T09:30:32Z",
-            "owner": "wayne391",
-            "repo": "symbolic-music-datasets",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hsmusic",
-          "description": "Huge symbolic music dataset",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-12T14:33:24Z",
-            "owner": "Didayolo",
-            "repo": "hsmusic",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Music"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1400,11 +1499,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537603333,
             "language": "Python",
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107560
+            "stars": 107601
           }
         },
         {
@@ -1414,6 +1514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650945129,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
@@ -1426,8 +1527,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:54:58.128Z",
+    "last_updated": "2026-08-19T12:46:31.770Z",
     "original_repository": "andreimatveyeu/awesome-python-audio",
+    "original_repository_id": 676046543,
     "original_repository_sha": "7a0a42164d334db3ff77ef7a39495a2f714d1942",
     "enhanced_repository": "enhansome/enhansome-python-audio",
     "enhanced_repository_description": null,
