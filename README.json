@@ -16,7 +16,8 @@
             "owner": "jiaaro",
             "repo": "pydub",
             "stars": 9793
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T17:19:12Z",
             "owner": "spotify",
             "repo": "pedalboard",
-            "stars": 6281
-          }
+            "stars": 6282
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 90321822,
             "language": "Python",
-            "last_commit": "2026-08-26T11:42:17Z",
+            "last_commit": "2026-08-27T15:12:43Z",
             "owner": "pytorch",
             "repo": "audio",
-            "stars": 2928
-          }
+            "stars": 2930
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "sergree",
             "repo": "matchering",
             "stars": 2615
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "iver56",
             "repo": "audiomentations",
             "stars": 2314
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "timsainb",
             "repo": "noisereduce",
             "stars": 1874
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "spatialaudio",
             "repo": "python-sounddevice",
             "stars": 1267
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "iver56",
             "repo": "torch-audiomentations",
             "stars": 1167
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2026-07-14T04:59:14Z",
             "owner": "bastibe",
             "repo": "python-soundfile",
-            "stars": 848
-          }
+            "stars": 849
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "beetbox",
             "repo": "audioread",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "jsingh811",
             "repo": "pyAudioProcessing",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "sergree",
             "repo": "matchering-cli",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "babycat-io",
             "repo": "babycat",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Audio Processing & I/O"
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-22T13:06:58Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8576
-          }
+            "stars": 8578
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -231,8 +245,9 @@
             "last_commit": "2025-08-04T16:44:35Z",
             "owner": "tyiannak",
             "repo": "pyAudioAnalysis",
-            "stars": 6255
-          }
+            "stars": 6256
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "aubio",
             "repo": "aubio",
             "stars": 3754
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -258,11 +274,12 @@
             "archived": false,
             "id": 10456942,
             "language": "C++",
-            "last_commit": "2026-07-22T07:45:39Z",
+            "last_commit": "2026-08-27T18:31:38Z",
             "owner": "MTG",
             "repo": "essentia",
             "stars": 3706
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3351
-          }
+            "stars": 3352
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -291,8 +309,9 @@
             "last_commit": "2026-03-20T09:38:58Z",
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1699
-          }
+            "stars": 1702
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "belangeo",
             "repo": "pyo",
             "stars": 1450
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "KinWaiCheuk",
             "repo": "nnAudio",
             "stars": 1127
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "mir-evaluation",
             "repo": "mir_eval",
             "stars": 711
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "mir-dataset-loaders",
             "repo": "mirdata",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "Parisson",
             "repo": "TimeSide",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Analysis & Feature Extraction"
@@ -387,8 +411,9 @@
             "last_commit": "2025-05-15T19:55:29Z",
             "owner": "LAION-AI",
             "repo": "CLAP",
-            "stars": 2256
-          }
+            "stars": 2257
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "microsoft",
             "repo": "CLAP",
             "stars": 677
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "marl",
             "repo": "openl3",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "qiuqiangkong",
             "repo": "panns_inference",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Audio Embeddings & Representations"
@@ -455,8 +483,9 @@
                 "last_commit": "2026-07-28T20:18:29Z",
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 108003
-              }
+                "stars": 108039
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -470,8 +499,9 @@
                 "last_commit": "2025-11-19T14:40:46Z",
                 "owner": "SYSTRAN",
                 "repo": "faster-whisper",
-                "stars": 25110
-              }
+                "stars": 25119
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -485,8 +515,9 @@
                 "last_commit": "2026-07-13T08:30:07Z",
                 "owner": "m-bain",
                 "repo": "whisperX",
-                "stars": 23773
-              }
+                "stars": 23782
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -500,8 +531,9 @@
                 "last_commit": "2026-08-09T13:35:47Z",
                 "owner": "alphacep",
                 "repo": "vosk-api",
-                "stars": 15081
-              }
+                "stars": 15080
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -512,11 +544,12 @@
                 "archived": false,
                 "id": 259710503,
                 "language": "Python",
-                "last_commit": "2026-08-25T22:43:42Z",
+                "last_commit": "2026-08-27T13:48:19Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11784
-              }
+                "stars": 11788
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -530,8 +563,9 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10478
-              }
+                "stars": 10479
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -546,7 +580,8 @@
                 "owner": "Uberi",
                 "repo": "speech_recognition",
                 "stars": 8987
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             }
           ],
           "description": null,
@@ -567,8 +602,9 @@
                 "last_commit": "2024-08-16T12:07:14Z",
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 45958
-              }
+                "stars": 45963
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -582,8 +618,9 @@
                 "last_commit": "2024-08-19T07:45:36Z",
                 "owner": "suno-ai",
                 "repo": "bark",
-                "stars": 39250
-              }
+                "stars": 39253
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -598,7 +635,8 @@
                 "owner": "nateshmbhat",
                 "repo": "pyttsx3",
                 "stars": 2529
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             }
           ],
           "description": null,
@@ -624,7 +662,8 @@
             "owner": "deezer",
             "repo": "spleeter",
             "stars": 28402
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -639,7 +678,8 @@
             "owner": "facebookresearch",
             "repo": "demucs",
             "stars": 10359
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -654,7 +694,8 @@
             "owner": "asteroid-team",
             "repo": "asteroid",
             "stars": 2584
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -668,8 +709,9 @@
             "last_commit": "2026-08-27T03:06:41Z",
             "owner": "nomadkaraoke",
             "repo": "python-audio-separator",
-            "stars": 1328
-          }
+            "stars": 1329
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -684,7 +726,8 @@
             "owner": "google-research",
             "repo": "sound-separation",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Source Separation"
@@ -705,7 +748,8 @@
             "owner": "spotify",
             "repo": "basic-pitch",
             "stars": 5490
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -720,7 +764,8 @@
             "owner": "magenta",
             "repo": "mt3",
             "stars": 1744
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -735,7 +780,8 @@
             "owner": "marl",
             "repo": "crepe",
             "stars": 1411
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -750,7 +796,8 @@
             "owner": "maxrmorrison",
             "repo": "torchcrepe",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -765,7 +812,8 @@
             "owner": "qiuqiangkong",
             "repo": "piano_transcription_inference",
             "stars": 483
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Music Transcription & Pitch"
@@ -785,8 +833,9 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23588
-          }
+            "stars": 23587
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -800,8 +849,9 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19808
-          }
+            "stars": 19807
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -815,8 +865,9 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19808
-          }
+            "stars": 19807
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -830,8 +881,9 @@
             "last_commit": "2024-07-22T18:09:39Z",
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3900
-          }
+            "stars": 3902
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -845,8 +897,9 @@
             "last_commit": "2026-08-21T15:15:46Z",
             "owner": "Stability-AI",
             "repo": "stable-audio-tools",
-            "stars": 3851
-          }
+            "stars": 3852
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -861,7 +914,8 @@
             "owner": "bearpelican",
             "repo": "musicautobot",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Music Generation & AI"
@@ -882,7 +936,8 @@
             "owner": "mido",
             "repo": "mido",
             "stars": 1638
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -897,7 +952,8 @@
             "owner": "amberwhitehead",
             "repo": "pyfluidsynth",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -912,7 +968,8 @@
             "owner": "mgeier",
             "repo": "python-audio",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -927,7 +984,8 @@
             "owner": "e-lie",
             "repo": "renardo",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -942,7 +1000,8 @@
             "owner": "csound",
             "repo": "ctcsound",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -957,7 +1016,8 @@
             "owner": "interactive-sonification",
             "repo": "sc3nb",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Synthesis & Sound Design"
@@ -974,11 +1034,12 @@
             "archived": false,
             "id": 14121294,
             "language": "Python",
-            "last_commit": "2026-08-22T01:57:02Z",
+            "last_commit": "2026-08-28T04:32:46Z",
             "owner": "cuthbertLab",
             "repo": "music21",
             "stars": 2570
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -993,7 +1054,8 @@
             "owner": "craffel",
             "repo": "pretty-midi",
             "stars": 1034
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1008,7 +1070,8 @@
             "owner": "bspaans",
             "repo": "python-mingus",
             "stars": 927
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1023,7 +1086,8 @@
             "owner": "salu133445",
             "repo": "muspy",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1102,8 @@
             "owner": "yuma-m",
             "repo": "pychord",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1053,7 +1118,8 @@
             "owner": "MarkCWirt",
             "repo": "MIDIUtil",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1068,7 +1134,8 @@
             "owner": "Abjad",
             "repo": "abjad",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1150,8 @@
             "owner": "MarcTheSpark",
             "repo": "scamp",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1166,8 @@
             "owner": "gesellkammer",
             "repo": "maelzel",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1182,8 @@
             "owner": "ales-tsurko",
             "repo": "athenaCL",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Music Theory & Composition"
@@ -1133,8 +1203,9 @@
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16156
-          }
+            "stars": 16158
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1145,11 +1216,12 @@
             "archived": false,
             "id": 827590,
             "language": "Python",
-            "last_commit": "2026-08-27T10:13:12Z",
+            "last_commit": "2026-08-27T19:55:50Z",
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15591
-          }
+            "stars": 15593
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1163,8 +1235,9 @@
             "last_commit": "2025-11-01T03:05:13Z",
             "owner": "pygame",
             "repo": "pygame",
-            "stars": 8906
-          }
+            "stars": 8908
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1179,7 +1252,8 @@
             "owner": "mopidy",
             "repo": "mopidy",
             "stars": 8563
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1194,7 +1268,8 @@
             "owner": "spotipy-dev",
             "repo": "spotipy",
             "stars": 5469
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1209,7 +1284,8 @@
             "owner": "Just-Some-Bots",
             "repo": "MusicBot",
             "stars": 3283
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1220,11 +1296,12 @@
             "archived": false,
             "id": 6854611,
             "language": "Python",
-            "last_commit": "2026-08-26T17:55:53Z",
+            "last_commit": "2026-08-27T23:39:02Z",
             "owner": "PyAV-Org",
             "repo": "PyAV",
-            "stars": 3269
-          }
+            "stars": 3270
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1239,7 +1316,8 @@
             "owner": "pyglet",
             "repo": "pyglet",
             "stars": 2210
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1254,7 +1332,8 @@
             "owner": "coderholic",
             "repo": "pyradio",
             "stars": 1092
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1269,7 +1348,8 @@
             "owner": "jaseg",
             "repo": "python-mpv",
             "stars": 631
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1284,7 +1364,8 @@
             "owner": "natumbri",
             "repo": "mopidy-youtube",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1299,7 +1380,8 @@
             "owner": "kivy",
             "repo": "audiostream",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1314,7 +1396,8 @@
             "owner": "irmen",
             "repo": "pyminiaudio",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1329,7 +1412,8 @@
             "owner": "MTG",
             "repo": "freesound-python",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Playback & Services"
@@ -1352,7 +1436,8 @@
                 "owner": "karolpiczak",
                 "repo": "ESC-50",
                 "stars": 1861
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1367,7 +1452,8 @@
                 "owner": "Jakobovski",
                 "repo": "free-spoken-digit-dataset",
                 "stars": 678
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             }
           ],
           "description": null,
@@ -1389,7 +1475,8 @@
                 "owner": "mdeff",
                 "repo": "fma",
                 "stars": 2653
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1404,7 +1491,8 @@
                 "owner": "bytedance",
                 "repo": "GiantMIDI-Piano",
                 "stars": 1895
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1419,7 +1507,8 @@
                 "owner": "LAION-AI",
                 "repo": "audio-dataset",
                 "stars": 749
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1434,7 +1523,8 @@
                 "owner": "MTG",
                 "repo": "mtg-jamendo-dataset",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1449,7 +1539,8 @@
                 "owner": "gabolsgabs",
                 "repo": "DALI",
                 "stars": 381
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1464,7 +1555,8 @@
                 "owner": "wayne391",
                 "repo": "symbolic-music-datasets",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             },
             {
               "node_type": "item",
@@ -1479,7 +1571,8 @@
                 "owner": "Didayolo",
                 "repo": "hsmusic",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:16:30.025Z"
             }
           ],
           "description": null,
@@ -1504,8 +1597,9 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108003
-          }
+            "stars": 108039
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         },
         {
           "node_type": "item",
@@ -1519,15 +1613,16 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23588
-          }
+            "stars": 23587
+          },
+          "first_seen": "2026-08-28T06:16:30.025Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:01.094Z",
+    "last_updated": "2026-08-28T06:16:30.025Z",
     "original_repository_info": {
       "archived": false,
       "id": 676046543,
