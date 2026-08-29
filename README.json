@@ -854,7 +854,7 @@
                 "open_issues": 136,
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 108088,
+                "stars": 108089,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1016,7 +1016,7 @@
                 "open_issues": 37,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10481,
+                "stars": 10482,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1082,7 +1082,7 @@
                 "open_issues": 2,
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 45966,
+                "stars": 45965,
                 "topics": [
                   "deep-learning",
                   "glow-tts",
@@ -1987,7 +1987,7 @@
             "open_issues": 161,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16158,
+            "stars": 16159,
             "topics": [
               "bot",
               "discord",
@@ -2595,7 +2595,7 @@
             "open_issues": 136,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108088,
+            "stars": 108089,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -2626,7 +2626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:50:05.985Z",
+    "last_updated": "2026-08-29T04:54:59.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python resources related to audio and music",

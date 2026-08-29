@@ -47,17 +47,17 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ### Speech-to-Text
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 108,088 | 🐛 136 | 🌐 Python | 📅 2026-07-28: OpenAI's robust multilingual speech recognition model
+* [Whisper](https://github.com/openai/whisper) ⭐ 108,089 | 🐛 136 | 🌐 Python | 📅 2026-07-28: OpenAI's robust multilingual speech recognition model
 * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 25,129 | 🐛 319 | 🌐 Python | 📅 2025-11-19: CTranslate2 reimplementation of Whisper up to 4x faster
 * [WhisperX](https://github.com/m-bain/whisperX) ⭐ 23,792 | 🐛 216 | 🌐 Python | 📅 2026-07-13: Whisper with word-level timestamps and speaker diarization
 * [Vosk](https://github.com/alphacep/vosk-api) ⭐ 15,083 | 🐛 602 | 🌐 Jupyter Notebook | 📅 2026-08-09: Offline speech recognition API supporting 20+ languages
 * [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,790 | 🐛 178 | 🌐 Python | 📅 2026-08-27: PyTorch toolkit for speech processing and conversational AI
-* [pyannote-audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,481 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2026-08-04: Neural speaker diarization and voice activity detection
+* [pyannote-audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,482 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2026-08-04: Neural speaker diarization and voice activity detection
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) ⭐ 8,987 | 🐛 311 | 🌐 Python | 📅 2026-07-31: Library for performing speech recognition with multiple backends
 
 ### Text-to-Speech
 
-* [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 45,966 | 🐛 2 | 🌐 Python | 📅 2024-08-16: Deep learning toolkit for Text-to-Speech
+* [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 45,965 | 🐛 2 | 🌐 Python | 📅 2024-08-16: Deep learning toolkit for Text-to-Speech
 * [Bark](https://github.com/suno-ai/bark) ⭐ 39,255 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2024-08-19: Transformer-based text-to-audio model with emotions and non-speech sounds
 * [pyttsx3](https://github.com/nateshmbhat/pyttsx3) ⭐ 2,529 | 🐛 90 | 🌐 Python | 📅 2026-07-22: Offline text-to-speech conversion library
 
@@ -112,7 +112,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Playback & Services
 
-* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,158 | 🐛 161 | 🌐 Python | 📅 2026-07-27: Python wrapper for Discord API with music streaming
+* [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,159 | 🐛 161 | 🌐 Python | 📅 2026-07-27: Python wrapper for Discord API with music streaming
 * [beets](https://github.com/beetbox/beets) ⭐ 15,597 | 🐛 715 | 🌐 Python | 📅 2026-08-27: Music library manager and MusicBrainz tagger
 * [pygame.mixer](https://github.com/pygame/pygame) ⭐ 8,908 | 🐛 788 | 🌐 C | 📅 2025-11-01: Pygame module for sound loading and playback
 * [Mopidy](https://github.com/mopidy/mopidy) ⭐ 8,564 | 🐛 225 | 🌐 Python | 📅 2026-08-20: Extensible music server written in Python
@@ -170,7 +170,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Tutorials
 
-* [Whisper tutorial](https://github.com/openai/whisper/discussions/categories/guides) ⭐ 108,088 | 🐛 136 | 🌐 Python | 📅 2026-07-28: Using OpenAI Whisper for speech-to-text
+* [Whisper tutorial](https://github.com/openai/whisper/discussions/categories/guides) ⭐ 108,089 | 🐛 136 | 🌐 Python | 📅 2026-07-28: Using OpenAI Whisper for speech-to-text
 * [AudioCraft tutorial](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md) ⭐ 23,588 | 🐛 395 | 🌐 Jupyter Notebook | 📅 2026-03-03: Getting started with MusicGen and AudioGen
 * [librosa tutorial - Introduction](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering spectrograms and remixing
 * [librosa tutorial - Visualization](https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/): Visualizing sounds using librosa and matplotlib
