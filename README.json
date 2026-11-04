@@ -19,7 +19,7 @@
             "open_issues": 439,
             "owner": "jiaaro",
             "repo": "pydub",
-            "stars": 9805,
+            "stars": 9807,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -36,11 +36,11 @@
             "id": 383471193,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T22:38:42Z",
-            "open_issues": 149,
+            "last_commit": "2026-11-03T20:21:12Z",
+            "open_issues": 147,
             "owner": "spotify",
             "repo": "pedalboard",
-            "stars": 6408,
+            "stars": 6412,
             "topics": [
               "audio",
               "audio-processing",
@@ -70,7 +70,7 @@
             "id": 90321822,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-02T11:35:21Z",
+            "last_commit": "2026-11-03T11:34:54Z",
             "open_issues": 344,
             "owner": "pytorch",
             "repo": "audio",
@@ -103,7 +103,7 @@
             "open_issues": 34,
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2679,
+            "stars": 2680,
             "topics": [
               "audio",
               "docker-image",
@@ -416,7 +416,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8763,
+            "stars": 8782,
             "topics": [
               "audio",
               "dsp",
@@ -473,7 +473,7 @@
             "open_issues": 447,
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3789,
+            "stars": 3793,
             "topics": [
               "audio",
               "audio-analysis",
@@ -501,10 +501,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-04-10T16:42:19Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "aubio",
             "repo": "aubio",
-            "stars": 3780,
+            "stars": 3781,
             "topics": [
               "analysis",
               "annotation",
@@ -692,7 +692,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-20T18:54:31Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "mir-dataset-loaders",
             "repo": "mirdata",
             "stars": 419,
@@ -754,7 +754,7 @@
             "open_issues": 68,
             "owner": "LAION-AI",
             "repo": "CLAP",
-            "stars": 2322,
+            "stars": 2324,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -851,10 +851,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T17:19:19Z",
-                "open_issues": 180,
+                "open_issues": 179,
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 111822,
+                "stars": 111902,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:30.025Z"
@@ -875,7 +875,7 @@
                 "open_issues": 19,
                 "owner": "SYSTRAN",
                 "repo": "faster-whisper",
-                "stars": 26426,
+                "stars": 26459,
                 "topics": [
                   "deep-learning",
                   "inference",
@@ -902,10 +902,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-22T14:53:44Z",
-                "open_issues": 216,
+                "open_issues": 217,
                 "owner": "m-bain",
                 "repo": "whisperX",
-                "stars": 25035,
+                "stars": 25075,
                 "topics": [
                   "asr",
                   "speech",
@@ -932,7 +932,7 @@
                 "open_issues": 605,
                 "owner": "alphacep",
                 "repo": "vosk-api",
-                "stars": 15223,
+                "stars": 15226,
                 "topics": [
                   "android",
                   "asr",
@@ -974,7 +974,7 @@
                 "open_issues": 197,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11920,
+                "stars": 11923,
                 "topics": [
                   "asr",
                   "audio",
@@ -1012,11 +1012,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-02T14:18:20Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-03T10:10:51Z",
+                "open_issues": 35,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10752,
+                "stars": 10757,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1049,7 +1049,7 @@
                 "open_issues": 313,
                 "owner": "Uberi",
                 "repo": "speech_recognition",
-                "stars": 8999,
+                "stars": 9000,
                 "topics": [
                   "audio",
                   "python",
@@ -1082,7 +1082,7 @@
                 "open_issues": 2,
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 46179,
+                "stars": 46177,
                 "topics": [
                   "deep-learning",
                   "glow-tts",
@@ -1123,7 +1123,7 @@
                 "open_issues": 269,
                 "owner": "suno-ai",
                 "repo": "bark",
-                "stars": 39286,
+                "stars": 39293,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1183,7 +1183,7 @@
             "open_issues": 278,
             "owner": "deezer",
             "repo": "spleeter",
-            "stars": 28513,
+            "stars": 28516,
             "topics": [
               "audio-processing",
               "bass",
@@ -1215,7 +1215,7 @@
             "open_issues": 275,
             "owner": "facebookresearch",
             "repo": "demucs",
-            "stars": 10401,
+            "stars": 10403,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1232,8 +1232,8 @@
             "id": 215969476,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T08:19:25Z",
-            "open_issues": 56,
+            "last_commit": "2026-11-03T08:41:16Z",
+            "open_issues": 54,
             "owner": "asteroid-team",
             "repo": "asteroid",
             "stars": 2600,
@@ -1262,10 +1262,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-29T17:22:08Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "nomadkaraoke",
             "repo": "python-audio-separator",
-            "stars": 1465,
+            "stars": 1469,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1313,7 +1313,7 @@
             "open_issues": 65,
             "owner": "spotify",
             "repo": "basic-pitch",
-            "stars": 6016,
+            "stars": 6019,
             "topics": [
               "audio",
               "lightweight",
@@ -1366,7 +1366,7 @@
             "open_issues": 45,
             "owner": "marl",
             "repo": "crepe",
-            "stars": 1426,
+            "stars": 1425,
             "topics": [
               "keras",
               "music-information-retrieval",
@@ -1445,7 +1445,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23794,
+            "stars": 23816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1536,7 +1536,7 @@
             "open_issues": 134,
             "owner": "Stability-AI",
             "repo": "stable-audio-tools",
-            "stars": 3896,
+            "stars": 3900,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1581,7 +1581,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-31T16:24:04Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "mido",
             "repo": "mido",
             "stars": 1656,
@@ -1714,27 +1714,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "music21",
-          "description": "Toolkit for computer-aided musical analysis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology",
-            "homepage": "https://www.music21.org/music21docs/",
-            "id": 14121294,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T03:28:16Z",
-            "open_issues": 169,
-            "owner": "cuthbertLab",
-            "repo": "music21",
-            "stars": 2616,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:30.025Z"
-        },
-        {
-          "node_type": "item",
           "title": "pretty-midi",
           "description": "MIDI data handling and manipulation library",
           "children": [],
@@ -1745,11 +1724,11 @@
             "id": 11820959,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:26:55Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-04T02:26:17Z",
+            "open_issues": 31,
             "owner": "craffel",
             "repo": "pretty-midi",
-            "stars": 1048,
+            "stars": 1049,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -1815,8 +1794,8 @@
             "id": 56831251,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T11:35:32Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-03T08:38:18Z",
+            "open_issues": 15,
             "owner": "yuma-m",
             "repo": "pychord",
             "stars": 292,
@@ -1985,10 +1964,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 187,
+            "open_issues": 186,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16201,
+            "stars": 16202,
             "topics": [
               "bot",
               "discord",
@@ -2014,10 +1993,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T15:34:53Z",
-            "open_issues": 673,
+            "open_issues": 676,
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15888,
+            "stars": 15891,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -2042,10 +2021,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-11-01T03:05:13Z",
-            "open_issues": 803,
+            "open_issues": 804,
             "owner": "pygame",
             "repo": "pygame",
-            "stars": 8998,
+            "stars": 8999,
             "topics": [
               "game-dev",
               "game-development",
@@ -2074,7 +2053,7 @@
             "open_issues": 168,
             "owner": "mopidy",
             "repo": "mopidy",
-            "stars": 8609,
+            "stars": 8610,
             "topics": [
               "mopidy",
               "music-player",
@@ -2146,7 +2125,7 @@
             "open_issues": 13,
             "owner": "Just-Some-Bots",
             "repo": "MusicBot",
-            "stars": 3291,
+            "stars": 3290,
             "topics": [
               "discord",
               "hacktoberfest",
@@ -2168,8 +2147,8 @@
             "id": 191043601,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T01:52:32Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-03T16:04:33Z",
+            "open_issues": 43,
             "owner": "pyglet",
             "repo": "pyglet",
             "stars": 2227,
@@ -2195,8 +2174,8 @@
             "id": 55984,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T16:46:50Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-03T14:52:41Z",
+            "open_issues": 12,
             "owner": "coderholic",
             "repo": "pyradio",
             "stars": 1098,
@@ -2594,10 +2573,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 180,
+            "open_issues": 179,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111822,
+            "stars": 111902,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -2618,7 +2597,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23794,
+            "stars": 23816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.025Z"
@@ -2628,7 +2607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:40:08.566Z",
+    "last_updated": "2026-11-04T02:38:49.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python resources related to audio and music",
